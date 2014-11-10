@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Special character</title>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="http://underscorejs.org/underscore.js"></script>
+</head>
+<body>
+  <h1>Go fix</h1>
+  <div id="changestatus">
+    <select>
+      <option value="all">all</option>
+      <option value="active">active</option>
+      <option value="inactive">done</option>
+    </select>
+  </div>
+  <div id="main"></div>
+  
+</body>
+</html>
+
+<style>
+  .status.active{color: #8AC007;}
+  .status.done{color: crimson;}
+</style>
+
+<script type="text/javascript">
+  $(document).ready(function () {
+    console.log('jquery is ready');
+    var fetch;
+
+    // select handler
+    $('#changestatus select').on('change', function (e) {
+      var status = this.value;
+
+      fetch(status);
+    });
+    
+    // load data
+    fetch = function (status) {
+      // remove old html
+      $('#main').html('');
+
+      // get data
+      $.get('/fetch?status=' + status, function (data) {
+        // console.log(data);
+        _.each(data, function (item) {
+          var status = 'active',
+              escapeString = item.escapeString || '';
+
+          if (item.isFixed) status = 'done';
+
+          $('#main').append('<div class="item">'
+            + '<div class="id"> '+ item._id +' </div>'
+            + '<div class="status ' + status + '">Status: ' + status + '</div>'
+            + '<div class="char">Char: <span>' + item.char + '</span></div>'
+            + '<div class="country">Country: ' + item.country + '</div>'
+            + '<div class="url"><a target="_blank" href="http://www.linkedin.com/company/' + item.linkedinId + '">Linkedin</a></div>'
+            + '<div class="fixed"><input type="text" class="submit" value="'+escapeString+'" data-id="'+ item._id +'">'
+            + '</div>');
+        });
+
+        $('.submit').on('keydown', function (e) {
+          // enter key
+          var key = e.which,
+              self = this;
+          
+          if (key === 13) {
+            var val = this.value,
+                id = $(this).data('id');
+
+            // submit
+            $.get('/submit?id=' + id + '&value=' + val, function (data) {
+              $(self).closest('.item').css('background', '#eee');
+            });
+          }
+        });
+      });
+    }
+
+    // fetch
+    fetch('active');
+  });
+</script>

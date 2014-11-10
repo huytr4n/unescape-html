@@ -1,0 +1,1962 @@
+[
+    {
+        "code": "&#x148;",
+        "symbol": "ň"
+    },
+    {
+        "code": "&#x43f;",
+        "symbol": "п"
+    },
+    {
+        "code": "&#xea;",
+        "symbol": "ê"
+    },
+    {
+        "code": "&#x2122;",
+        "symbol": "™"
+    },
+    {
+        "code": "&#xe1;",
+        "symbol": "á"
+    },
+    {
+        "code": "&#xf5;",
+        "symbol": "õ"
+    },
+    {
+        "code": "&#xe3;",
+        "symbol": "ã"
+    },
+    {
+        "code": "&#39;",
+        "symbol": "'"
+    },
+    {
+        "code": "&#xe7;",
+        "symbol": "ç"
+    },
+    {
+        "code": "&#xf3;",
+        "symbol": "ó"
+    },
+    {
+        "code": "&#xeb;",
+        "symbol": "ó"
+    },
+    {
+        "code": "&#xe9;",
+        "symbol": "é"
+    },
+    {
+        "code": "&#xc1;",
+        "symbol": "Á"
+    },
+    {
+        "code": "&#x25bd;",
+        "symbol": "▽"
+    },
+    {
+        "code": "&#xf6;",
+        "symbol": "ö"
+    },
+    {
+        "code": "&#xfc;",
+        "symbol": "ü"
+    },
+    {
+        "code": "&#xe5;",
+        "symbol": "å"
+    },
+    {
+        "code": "&#x5d1;",
+        "symbol": "ב"
+    },
+    {
+        "code": "&#x5d0;",
+        "symbol": "א"
+    },
+    {
+        "code": "&#xf1;",
+        "symbol": "ñ"
+    },
+    {
+        "code": "&#xed;",
+        "symbol": "í"
+    },
+    {
+        "code": "&#x5dc;",
+        "symbol": "ל"
+    },
+    {
+        "code": "&#x5e7;",
+        "symbol": "ק"
+    },
+    {
+        "code": "&#x130;",
+        "symbol": "İ"
+    },
+    {
+        "code": "&#x5d5;",
+        "symbol": "ו"
+    },
+    {
+        "code": "&#x15e;",
+        "symbol": "Ş"
+    },
+    {
+        "code": "&#x2013;",
+        "symbol": "–"
+    },
+    {
+        "code": "&#xfa;",
+        "symbol": "ú"
+    },
+    {
+        "code": "&#x2026;",
+        "symbol": "…"
+    },
+    {
+        "code": "&#xdc;",
+        "symbol": "Ü"
+    },
+    {
+        "code": "&#x17c;",
+        "symbol": "ż"
+    },
+    {
+        "code": "&#xe8;",
+        "symbol": "è"
+    },
+    {
+        "code": "&#xf8;",
+        "symbol": "ø"
+    },
+    {
+        "code": "&#x10c;",
+        "symbol": "Č"
+    },
+    {
+        "code": "&#xe4;",
+        "symbol": "ä"
+    },
+    {
+        "code": "&#x430;",
+        "symbol": "а"
+    },
+    {
+        "code": "&#x43d;",
+        "symbol": "н"
+    },
+    {
+        "code": "&#x433;",
+        "symbol": "г"
+    },
+    {
+        "code": "&#x440;",
+        "symbol": "р"
+    },
+    {
+        "code": "&#x434;",
+        "symbol": "д"
+    },
+    {
+        "code": "&#x41d;",
+        "symbol": "Н"
+    },
+    {
+        "code": "&#x438;",
+        "symbol": "и"
+    },
+    {
+        "code": "&#x439;",
+        "symbol": "й"
+    },
+    {
+        "code": "&#x432;",
+        "symbol": "в"
+    },
+    {
+        "code": "&#x441;",
+        "symbol": "с"
+    },
+    {
+        "code": "&#x43e;",
+        "symbol": "о"
+    },
+    {
+        "code": "&#x435;",
+        "symbol": "е"
+    },
+    {
+        "code": "&#x442;",
+        "symbol": "т"
+    },
+    {
+        "code": "&#x43a;",
+        "symbol": "к"
+    },
+    {
+        "code": "&#x14d;",
+        "symbol": "ō"
+    },
+    {
+        "code": "&#x437;",
+        "symbol": "з"
+    },
+    {
+        "code": "&#x16b;",
+        "symbol": "ū"
+    },
+    {
+        "code": "&#xe2;",
+        "symbol": "â"
+    },
+    {
+        "code": "&#x173;",
+        "symbol": "ų"
+    },
+    {
+        "code": "&#x117;",
+        "symbol": "ė"
+    },
+    {
+        "code": "&#x12e;",
+        "symbol": "Į"
+    },
+    {
+        "code": "&#x161;",
+        "symbol": "š"
+    },
+    {
+        "code": "&#x151;",
+        "symbol": "ő"
+    },
+    {
+        "code": "&#xc5;",
+        "symbol": "Å"
+    },
+    {
+        "code": "&#x5dd;",
+        "symbol": "ם"
+    },
+    {
+        "code": "&#x5ea;",
+        "symbol": "ת"
+    },
+    {
+        "code": "&#xca;",
+        "symbol": "Ê"
+    },
+    {
+        "code": "&#x131;",
+        "symbol": "ı"
+    },
+    {
+        "code": "&#x5d9;",
+        "symbol": "י"
+    },
+    {
+        "code": "&#x5e8;",
+        "symbol": "ר"
+    },
+    {
+        "code": "&#x5e0;",
+        "symbol": "נ"
+    },
+    {
+        "code": "&#xc9;",
+        "symbol": "É"
+    },
+    {
+        "code": "&#xd3;",
+        "symbol": "Ó"
+    },
+    {
+        "code": "&#xd6;",
+        "symbol": "Ö"
+    },
+    {
+        "code": "&#xf4;",
+        "symbol": "ô"
+    },
+    {
+        "code": "&#x5d7;",
+        "symbol": "ח"
+    },
+    {
+        "code": "&#x5d8;",
+        "symbol": "ט"
+    },
+    {
+        "code": "&#x5e9;",
+        "symbol": "ש"
+    },
+    {
+        "code": "&#x2729;",
+        "symbol": "✩"
+    },
+    {
+        "code": "&#x7fce;",
+        "symbol": "翎"
+    },
+    {
+        "code": "&#x6613;",
+        "symbol": "易"
+    },
+    {
+        "code": "&#x7edc;",
+        "symbol": "络"
+    },
+    {
+        "code": "&#x793e;",
+        "symbol": "社"
+    },
+    {
+        "code": "&#x7f51;",
+        "symbol": "网"
+    },
+    {
+        "code": "&#x4f1a;",
+        "symbol": "会"
+    },
+    {
+        "code": "&#x767b;",
+        "symbol": "登"
+    },
+    {
+        "code": "&#x65b0;",
+        "symbol": "新"
+    },
+    {
+        "code": "&#x5f0f;",
+        "symbol": "式"
+    },
+    {
+        "code": "&#x682a;",
+        "symbol": "株"
+    },
+    {
+        "code": "&#xc7;",
+        "symbol": "Ç"
+    },
+    {
+        "code": "&#x141;",
+        "symbol": "Ł"
+    },
+    {
+        "code": "&#xc4;",
+        "symbol": "Ä"
+    },
+    {
+        "code": "&#xb3;",
+        "symbol": "³"
+    },
+    {
+        "code": "&#xae;",
+        "symbol": "®"
+    },
+    {
+        "code": "&#xee;",
+        "symbol": "î"
+    },
+    {
+        "code": "&#x424;",
+        "symbol": "Ф"
+    },
+    {
+        "code": "&#x41b;",
+        "symbol": "Л"
+    },
+    {
+        "code": "&#x417;",
+        "symbol": "З"
+    },
+    {
+        "code": "&#x413;",
+        "symbol": "Г"
+    },
+    {
+        "code": "&#x41f;",
+        "symbol": "П"
+    },
+    {
+        "code": "&#x418;",
+        "symbol": "И"
+    },
+    {
+        "code": "&#x411;",
+        "symbol": "Б"
+    },
+    {
+        "code": "&#x42a;",
+        "symbol": "Ъ"
+    },
+    {
+        "code": "&#x942;",
+        "symbol": " ू"
+    },
+    {
+        "code": "&#x917;",
+        "symbol": "ग"
+    },
+    {
+        "code": "&#x93e;",
+        "symbol": " ा"
+    },
+    {
+        "code": "&#x930;",
+        "symbol": "र"
+    },
+    {
+        "code": "&#x941;",
+        "symbol": " ु"
+    },
+    {
+        "code": "&#x932;",
+        "symbol": "ल"
+    },
+    {
+        "code": "&#x909;",
+        "symbol": "उ"
+    },
+    {
+        "code": "&#xd1;",
+        "symbol": "Ñ"
+    },
+    {
+        "code": "&#xe0;",
+        "symbol": "à"
+    },
+    {
+        "code": "&#xff08;",
+        "symbol": "（"
+    },
+    {
+        "code": "&#x15f;",
+        "symbol": "ş"
+    },
+    {
+        "code": "&#x4e0b;",
+        "symbol": "下"
+    },
+    {
+        "code": "&#x4e00;",
+        "symbol": "一"
+    },
+    {
+        "code": "&#xff09;",
+        "symbol": "）"
+    },
+    {
+        "code": "&#x6bd4;",
+        "symbol": "比"
+    },
+    {
+        "code": "&#x5616;",
+        "symbol": "嘖"
+    },
+    {
+        "code": "&#x25d5;",
+        "symbol": "◕"
+    },
+    {
+        "code": "&#x203f;",
+        "symbol": "‿"
+    },
+    {
+        "code": "&#xff61;",
+        "symbol": "｡"
+    },
+    {
+        "code": "&#xb4;",
+        "symbol": "´"
+    },
+    {
+        "code": "&#x446;",
+        "symbol": "ц"
+    },
+    {
+        "code": "&#x160;",
+        "symbol": "Š"
+    },
+    {
+        "code": "&#x243;",
+        "symbol": "Ƀ"
+    },
+    {
+        "code": "&#x144;",
+        "symbol": "ń"
+    },
+    {
+        "code": "&#x44f;",
+        "symbol": "я"
+    },
+    {
+        "code": "&#x431;",
+        "symbol": "б"
+    },
+    {
+        "code": "&#x443;",
+        "symbol": "у"
+    },
+    {
+        "code": "&#x412;",
+        "symbol": "В"
+    },
+    {
+        "code": "&#x10d;",
+        "symbol": "č"
+    },
+    {
+        "code": "&#xef;",
+        "symbol": "ï"
+    },
+    {
+        "code": "&#x17d;",
+        "symbol": "Ž"
+    },
+    {
+        "code": "&#x30c4;",
+        "symbol": "ツ"
+    },
+    {
+        "code": "&#x30a3;",
+        "symbol": "ィ"
+    },
+    {
+        "code": "&#x30c8;",
+        "symbol": "ト"
+    },
+    {
+        "code": "&#x30e9;",
+        "symbol": "ラ"
+    },
+    {
+        "code": "&#x30b9;",
+        "symbol": "ス"
+    },
+    {
+        "code": "&#x30fc;",
+        "symbol": "ー"
+    },
+    {
+        "code": "&#xb0;",
+        "symbol": "°"
+    },
+    {
+        "code": "&#x30ea;",
+        "symbol": "リ"
+    },
+    {
+        "code": "&#x62a;",
+        "symbol": "ت"
+    },
+    {
+        "code": "&#x17e;",
+        "symbol": "ž"
+    },
+    {
+        "code": "&#x627;",
+        "symbol": "ا"
+    },
+    {
+        "code": "&#x631;",
+        "symbol": "ر"
+    },
+    {
+        "code": "&#x65f6;",
+        "symbol": "时"
+    },
+    {
+        "code": "&#x95f4;",
+        "symbol": "间"
+    },
+    {
+        "code": "&#x9886;",
+        "symbol": "领"
+    },
+    {
+        "code": "&#x57df;",
+        "symbol": "域"
+    },
+    {
+        "code": "&#x4e0a;",
+        "symbol": "上"
+    },
+    {
+        "code": "&#x5c55;",
+        "symbol": "展"
+    },
+    {
+        "code": "&#x53d1;",
+        "symbol": "发"
+    },
+    {
+        "code": "&#x76ca;",
+        "symbol": "益"
+    },
+    {
+        "code": "&#x4e8b;",
+        "symbol": "事"
+    },
+    {
+        "code": "&#x301;",
+        "symbol": " ́"
+    },
+    {
+        "code": "&#xb5;",
+        "symbol": "µ"
+    },
+    {
+        "code": "&#x118;",
+        "symbol": "Ę"
+    },
+    {
+        "code": "&#x62d;",
+        "symbol": "ح"
+    },
+    {
+        "code": "&#xf8ff;",
+        "symbol": ""
+    },
+    {
+        "code": "&#x30ed;",
+        "symbol": "ロ"
+    },
+    {
+        "code": "&#x436;",
+        "symbol": "ж"
+    },
+    {
+        "code": "&#x30c6;",
+        "symbol": "テ"
+    },
+    {
+        "code": "&#x30e3;",
+        "symbol": "ャ"
+    },
+    {
+        "code": "&#x30a8;",
+        "symbol": "エ"
+    },
+    {
+        "code": "&#x30aa;",
+        "symbol": "オ"
+    },
+    {
+        "code": "&#x30c9;",
+        "symbol": "ド"
+    },
+    {
+        "code": "&#x30ca;",
+        "symbol": "ナ"
+    },
+    {
+        "code": "&#x30ba;",
+        "symbol": "ズ"
+    },
+    {
+        "code": "&#xa3;",
+        "symbol": "£"
+    },
+    {
+        "code": "&#x426;",
+        "symbol": "Ц"
+    },
+    {
+        "code": "&#x5de5;",
+        "symbol": "工"
+    },
+    {
+        "code": "&#x1ebe;",
+        "symbol": "Ế"
+    },
+    {
+        "code": "&#x456;",
+        "symbol": "і"
+    },
+    {
+        "code": "&#x3bc;",
+        "symbol": "μ"
+    },
+    {
+        "code": "&#x3cd;",
+        "symbol": "ύ"
+    },
+    {
+        "code": "&#x221a;",
+        "symbol": "√"
+    },
+    {
+        "code": "&#x6d77;",
+        "symbol": "海"
+    },
+    {
+        "code": "&#x68ee;",
+        "symbol": "森"
+    },
+    {
+        "code": "&#x4fdd;",
+        "symbol": "保"
+    },
+    {
+        "code": "&#350;",
+        "symbol": "Ş"
+    },
+    {
+        "code": "&#x540c;",
+        "symbol": "同"
+    },
+    {
+        "code": "&#351;",
+        "symbol": "ş"
+    },
+    {
+        "code": "&#xc6;",
+        "symbol": "Æ"
+    },
+    {
+        "code": "&#x3a6;",
+        "symbol": "Φ"
+    },
+    {
+        "code": "&#x3b2;",
+        "symbol": "β"
+    },
+    {
+        "code": "&#x3b5;",
+        "symbol": "ε"
+    },
+    {
+        "code": "&#x3b3;",
+        "symbol": "γ"
+    },
+    {
+        "code": "&#x3af;",
+        "symbol": "ί"
+    },
+    {
+        "code": "&#x3c5;",
+        "symbol": "υ"
+    },
+    {
+        "code": "&#x3c4;",
+        "symbol": "τ"
+    },
+    {
+        "code": "&#x5de;",
+        "symbol": "מ"
+    },
+    {
+        "code": "&#x5e6;",
+        "symbol": "צ"
+    },
+    {
+        "code": "&#x5e2;",
+        "symbol": "ע"
+    },
+    {
+        "code": "&#x11f;",
+        "symbol": "ğ"
+    },
+    {
+        "code": "&#x15b;",
+        "symbol": "ś"
+    },
+    {
+        "code": "&#xf2;",
+        "symbol": "ò"
+    },
+    {
+        "code": "&#x2019;",
+        "symbol": "’"
+    },
+    {
+        "code": "&#xc2;",
+        "symbol": "Â"
+    },
+    {
+        "code": "&#xc3;",
+        "symbol": "Ã"
+    },
+    {
+        "code": "&#xe6;",
+        "symbol": "æ"
+    },
+    {
+        "code": "&#x645;",
+        "symbol": "م"
+    },
+    {
+        "code": "&#x6cc;",
+        "symbol": "ی"
+    },
+    {
+        "code": "&#x644;",
+        "symbol": "ل"
+    },
+    {
+        "code": "&#x633;",
+        "symbol": "س"
+    },
+    {
+        "code": "&#x622;",
+        "symbol": "آ"
+    },
+    {
+        "code": "&#x646;",
+        "symbol": "ن"
+    },
+    {
+        "code": "&#x647;",
+        "symbol": "ه"
+    },
+    {
+        "code": "&#x62f;",
+        "symbol": "د"
+    },
+    {
+        "code": "&#x6af;",
+        "symbol": "گ"
+    },
+    {
+        "code": "&#x632;",
+        "symbol": "ز"
+    },
+    {
+        "code": "&#x634;",
+        "symbol": "ش"
+    },
+    {
+        "code": "&#xcd;",
+        "symbol": "Í"
+    },
+    {
+        "code": "&#xf9;",
+        "symbol": "ù"
+    },
+    {
+        "code": "&#xda;",
+        "symbol": "Ú"
+    },
+    {
+        "code": "&#xd5;",
+        "symbol": "Õ"
+    },
+    {
+        "code": "&#xaa;",
+        "symbol": "ª"
+    },
+    {
+        "code": "&#x628;",
+        "symbol": "ب"
+    },
+    {
+        "code": "&#x643;",
+        "symbol": "ك"
+    },
+    {
+        "code": "&#xd4;",
+        "symbol": "Ô"
+    },
+    {
+        "code": "&#xdf;",
+        "symbol": "ß"
+    },
+    {
+        "code": "&#xb7;",
+        "symbol": "·"
+    },
+    {
+        "code": "&#x201d;",
+        "symbol": "”"
+    },
+    {
+        "code": "&#x201c;",
+        "symbol": "“"
+    },
+    {
+        "code": "&#xc0;",
+        "symbol": "À"
+    },
+    {
+        "code": "&#xd8;",
+        "symbol": "Ø"
+    },
+    {
+        "code": "&#xfb;",
+        "symbol": "û"
+    },
+    {
+        "code": "&#x8fea;",
+        "symbol": "迪"
+    },
+    {
+        "code": "&#x8d5b;",
+        "symbol": "赛"
+    },
+    {
+        "code": "&#x51b6;",
+        "symbol": "冶"
+    },
+    {
+        "code": "&#x4e2d;",
+        "symbol": "中"
+    },
+    {
+        "code": "&#x3a0;",
+        "symbol": "Π"
+    },
+    {
+        "code": "&#x165;",
+        "symbol": "ť"
+    },
+    {
+        "code": "&#x398;",
+        "symbol": "Θ"
+    },
+    {
+        "code": "&#xfd;",
+        "symbol": "ý"
+    },
+    {
+        "code": "&#xce;",
+        "symbol": "Î"
+    },
+    {
+        "code": "&#x62fe;",
+        "symbol": "拾"
+    },
+    {
+        "code": "&#x8ba1;",
+        "symbol": "计"
+    },
+    {
+        "code": "&#x8bbe;",
+        "symbol": "设"
+    },
+    {
+        "code": "&#x7a3c;",
+        "symbol": "稼"
+    },
+    {
+        "code": "&#x414;",
+        "symbol": "Д"
+    },
+    {
+        "code": "&#xa1;",
+        "symbol": "¡"
+    },
+    {
+        "code": "&#xba;",
+        "symbol": "º"
+    },
+    {
+        "code": "&#x5df;",
+        "symbol": "ן"
+    },
+    {
+        "code": "&#x5d4;",
+        "symbol": "ה"
+    },
+    {
+        "code": "&#x5e1;",
+        "symbol": "ס"
+    },
+    {
+        "code": "&#x5d3;",
+        "symbol": "ד"
+    },
+    {
+        "code": "&#x5db;",
+        "symbol": "כ"
+    },
+    {
+        "code": "&#x15a;",
+        "symbol": "Ś"
+    },
+    {
+        "code": "&#x43b;",
+        "symbol": "л"
+    },
+    {
+        "code": "&#x751f;",
+        "symbol": "生"
+    },
+    {
+        "code": "&#x5718;",
+        "symbol": "團"
+    },
+    {
+        "code": "&#x5fc3;",
+        "symbol": "心"
+    },
+    {
+        "code": "&#x570b;",
+        "symbol": "國"
+    },
+    {
+        "code": "&#x8ca1;",
+        "symbol": "財"
+    },
+    {
+        "code": "&#x529b;",
+        "symbol": "力"
+    },
+    {
+        "code": "&#x4eba;",
+        "symbol": "人"
+    },
+    {
+        "code": "&#x7522;",
+        "symbol": "產"
+    },
+    {
+        "code": "&#x6cd5;",
+        "symbol": "法"
+    },
+    {
+        "code": "&#x64a;",
+        "symbol": "ي"
+    },
+    {
+        "code": "&#x629;",
+        "symbol": "ة"
+    },
+    {
+        "code": "&#x639;",
+        "symbol": "ع"
+    },
+    {
+        "code": "&#x625;",
+        "symbol": "إ"
+    },
+    {
+        "code": "&#x6cb3;",
+        "symbol": "河"
+    },
+    {
+        "code": "&#x5e02;",
+        "symbol": "市"
+    },
+    {
+        "code": "&#x90d1;",
+        "symbol": "郑"
+    },
+    {
+        "code": "&#x5dde;",
+        "symbol": "州"
+    },
+    {
+        "code": "&#x5357;",
+        "symbol": "南"
+    },
+    {
+        "code": "&#x447;",
+        "symbol": "ч"
+    },
+    {
+        "code": "&#x444;",
+        "symbol": "ф"
+    },
+    {
+        "code": "&#x623;",
+        "symbol": "أ"
+    },
+    {
+        "code": "&#x44b;",
+        "symbol": "ы"
+    },
+    {
+        "code": "&#x5e5;",
+        "symbol": "ץ"
+    },
+    {
+        "code": "&#x648;",
+        "symbol": "و"
+    },
+    {
+        "code": "&#x686;",
+        "symbol": "چ"
+    },
+    {
+        "code": "&#xec;",
+        "symbol": "ì"
+    },
+    {
+        "code": "&#xb2;",
+        "symbol": "²"
+    },
+    {
+        "code": "&#x56e2;",
+        "symbol": "团"
+    },
+    {
+        "code": "&#x11b;",
+        "symbol": "ě"
+    },
+    {
+        "code": "&#x96c6;",
+        "symbol": "集"
+    },
+    {
+        "code": "&#x6d32;",
+        "symbol": "洲"
+    },
+    {
+        "code": "&#x79b9;",
+        "symbol": "禹"
+    },
+    {
+        "code": "&#x6703;",
+        "symbol": "會"
+    },
+    {
+        "code": "&#x91d1;",
+        "symbol": "金"
+    },
+    {
+        "code": "&#x57fa;",
+        "symbol": "基"
+    },
+    {
+        "code": "&#x9054;",
+        "symbol": "達"
+    },
+    {
+        "code": "&#x65bd;",
+        "symbol": "施"
+    },
+    {
+        "code": "&#x44e;",
+        "symbol": "ю"
+    },
+    {
+        "code": "&#x44c;",
+        "symbol": "ь"
+    },
+    {
+        "code": "&#x5d6;",
+        "symbol": "ז"
+    },
+    {
+        "code": "&#x30f3;",
+        "symbol": "ン"
+    },
+    {
+        "code": "&#x30af;",
+        "symbol": "ク"
+    },
+    {
+        "code": "&#x30a2;",
+        "symbol": "ア"
+    },
+    {
+        "code": "&#x30ef;",
+        "symbol": "ワ"
+    },
+    {
+        "code": "&#x30c0;",
+        "symbol": "ダ"
+    },
+    {
+        "code": "&#xc8;",
+        "symbol": "È"
+    },
+    {
+        "code": "&#x107;",
+        "symbol": "ć"
+    },
+    {
+        "code": "&#x159;",
+        "symbol": "ř"
+    },
+    {
+        "code": "&#x16f;",
+        "symbol": "ů"
+    },
+    {
+        "code": "&#x142;",
+        "symbol": "ł"
+    },
+    {
+        "code": "&#x62c;",
+        "symbol": "ج"
+    },
+    {
+        "code": "&#x635;",
+        "symbol": "ص"
+    },
+    {
+        "code": "&#x606f;",
+        "symbol": "息"
+    },
+    {
+        "code": "&#x4fe1;",
+        "symbol": "信"
+    },
+    {
+        "code": "&#x667a;",
+        "symbol": "智"
+    },
+    {
+        "code": "&#x552f;",
+        "symbol": "唯"
+    },
+    {
+        "code": "&#xf0;",
+        "symbol": "ð"
+    },
+    {
+        "code": "&#x259;",
+        "symbol": "ə"
+    },
+    {
+        "code": "&#x119;",
+        "symbol": "ę"
+    },
+    {
+        "code": "&#x5e4;",
+        "symbol": "פ"
+    },
+    {
+        "code": "&#x25aa;",
+        "symbol": "▪"
+    },
+    {
+        "code": "&#xa7;",
+        "symbol": "§"
+    },
+    {
+        "code": "&#x25ab;",
+        "symbol": "▫"
+    },
+    {
+        "code": "&#x201e;",
+        "symbol": "„"
+    },
+    {
+        "code": "&#x416;",
+        "symbol": "Ж"
+    },
+    {
+        "code": "&#x2014;",
+        "symbol": "—"
+    },
+    {
+        "code": "&#x105;",
+        "symbol": "ą"
+    },
+    {
+        "code": "&#x2731;",
+        "symbol": "✱"
+    },
+    {
+        "code": "&#x4e1a;",
+        "symbol": "业"
+    },
+    {
+        "code": "&#x5927;",
+        "symbol": "大"
+    },
+    {
+        "code": "&#x73a9;",
+        "symbol": "玩"
+    },
+    {
+        "code": "&#x7231;",
+        "symbol": "爱"
+    },
+    {
+        "code": "&#x8ae6;",
+        "symbol": "諦"
+    },
+    {
+        "code": "&#x50b3;",
+        "symbol": "傳"
+    },
+    {
+        "code": "&#x219;",
+        "symbol": "ș"
+    },
+    {
+        "code": "&#x2022;",
+        "symbol": "•"
+    },
+    {
+        "code": "&#x101;",
+        "symbol": "ā"
+    },
+    {
+        "code": "&#x2219;",
+        "symbol": "∙"
+    },
+    {
+        "code": "&#xbd;",
+        "symbol": "½"
+    },
+    {
+        "code": "&#x2502;",
+        "symbol": "│"
+    },
+    {
+        "code": "&#x196;",
+        "symbol": "Ɩ"
+    },
+    {
+        "code": "&#x11e;",
+        "symbol": "Ğ"
+    },
+    {
+        "code": "&#xd2;",
+        "symbol": "Ò"
+    },
+    {
+        "code": "&#xdd;",
+        "symbol": "Ý"
+    },
+    {
+        "code": "&#x42d;",
+        "symbol": "Э"
+    },
+    {
+        "code": "&#x106;",
+        "symbol": "Ć"
+    },
+    {
+        "code": "&#xcc;",
+        "symbol": "Ì"
+    },
+    {
+        "code": "&#x516c;",
+        "symbol": "公"
+    },
+    {
+        "code": "&#x6709;",
+        "symbol": "有"
+    },
+    {
+        "code": "&#x5317;",
+        "symbol": "北"
+    },
+    {
+        "code": "&#x113;",
+        "symbol": "ē"
+    },
+    {
+        "code": "&#x9650;",
+        "symbol": "限"
+    },
+    {
+        "code": "&#x4eac;",
+        "symbol": "京"
+    },
+    {
+        "code": "&#x5e83;",
+        "symbol": "広"
+    },
+    {
+        "code": "&#x53f8;",
+        "symbol": "司"
+    },
+    {
+        "code": "&#x78bc;",
+        "symbol": "碼"
+    },
+    {
+        "code": "&#x544a;",
+        "symbol": "告"
+    },
+    {
+        "code": "&#x8846;",
+        "symbol": "衆"
+    },
+    {
+        "code": "&#x6570;",
+        "symbol": "数"
+    },
+    {
+        "code": "&#x96fb;",
+        "symbol": "電"
+    },
+    {
+        "code": "&#x25ca;",
+        "symbol": "◊"
+    },
+    {
+        "code": "&#x23aa;",
+        "symbol": "⎪"
+    },
+    {
+        "code": "&#x4ef6;",
+        "symbol": "件"
+    },
+    {
+        "code": "&#x8f6f;",
+        "symbol": "软"
+    },
+    {
+        "code": "&#x8fbe;",
+        "symbol": "达"
+    },
+    {
+        "code": "&#xbb;",
+        "symbol": "»"
+    },
+    {
+        "code": "&#x39b;",
+        "symbol": "Λ"
+    },
+    {
+        "code": "&#x153;",
+        "symbol": "œ"
+    },
+    {
+        "code": "&#x2021;",
+        "symbol": "‡"
+    },
+    {
+        "code": "&#xa9;",
+        "symbol": "©"
+    },
+    {
+        "code": "&#x30b7;",
+        "symbol": "シ"
+    },
+    {
+        "code": "&#x30e5;",
+        "symbol": "ュ"
+    },
+    {
+        "code": "&#x30a4;",
+        "symbol": "イ"
+    },
+    {
+        "code": "&#x30e7;",
+        "symbol": "ョ"
+    },
+    {
+        "code": "&#x30ce;",
+        "symbol": "ノ"
+    },
+    {
+        "code": "&#x30a7;",
+        "symbol": "ェ"
+    },
+    {
+        "code": "&#x30d9;",
+        "symbol": "ベ"
+    },
+    {
+        "code": "&#x30fb;",
+        "symbol": "・"
+    },
+    {
+        "code": "&#x30b3;",
+        "symbol": "コ"
+    },
+    {
+        "code": "&#x30b8;",
+        "symbol": "ジ"
+    },
+    {
+        "code": "&#304;",
+        "symbol": "İ"
+    },
+    {
+        "code": "&#xab;",
+        "symbol": "«"
+    },
+    {
+        "code": "&#x8d44;",
+        "symbol": "资"
+    },
+    {
+        "code": "&#x30d1;",
+        "symbol": "パ"
+    },
+    {
+        "code": "&#x30c3;",
+        "symbol": "ッ"
+    },
+    {
+        "code": "&#x2714;",
+        "symbol": "✔"
+    },
+    {
+        "code": "&#x74f4;",
+        "symbol": "瓴"
+    },
+    {
+        "code": "&#x20ac;",
+        "symbol": "€"
+    },
+    {
+        "code": "&#x9ad8;",
+        "symbol": "高"
+    },
+    {
+        "code": "&#xb1;",
+        "symbol": "±"
+    },
+    {
+        "code": "&#x672c;",
+        "symbol": "本"
+    },
+    {
+        "code": "&#x1c0;",
+        "symbol": "ǀ"
+    },
+    {
+        "code": "&#x2018;",
+        "symbol": "‘"
+    },
+    {
+        "code": "&#x9510;",
+        "symbol": "锐"
+    },
+    {
+        "code": "&#x25cf;",
+        "symbol": "●"
+    },
+    {
+        "code": "&#x601d;",
+        "symbol": "思"
+    },
+    {
+        "code": "&#x6db2;",
+        "symbol": "液"
+    },
+    {
+        "code": "&#x78b3;",
+        "symbol": "碳"
+    },
+    {
+        "code": "&#x7406;",
+        "symbol": "理"
+    },
+    {
+        "code": "&#x64bc;",
+        "symbol": "撼"
+    },
+    {
+        "code": "&#x7ba1;",
+        "symbol": "管"
+    },
+    {
+        "code": "&#x388;",
+        "symbol": "Έ"
+    },
+    {
+        "code": "&#x9707;",
+        "symbol": "震"
+    },
+    {
+        "code": "&#x3c3;",
+        "symbol": "σ"
+    },
+    {
+        "code": "&#x4f53;",
+        "symbol": "体"
+    },
+    {
+        "code": "&#x3c6;",
+        "symbol": "φ"
+    },
+    {
+        "code": "&#x86cb;",
+        "symbol": "蛋"
+    },
+    {
+        "code": "&#x3c1;",
+        "symbol": "ρ"
+    },
+    {
+        "code": "&#x997c;",
+        "symbol": "饼"
+    },
+    {
+        "code": "&#x3ae;",
+        "symbol": "ή"
+    },
+    {
+        "code": "&#x3b9;",
+        "symbol": "ι"
+    },
+    {
+        "code": "&#x3ce;",
+        "symbol": "ώ"
+    },
+    {
+        "code": "&#x3c0;",
+        "symbol": "π"
+    },
+    {
+        "code": "&#x3bd;",
+        "symbol": "ν"
+    },
+    {
+        "code": "&#x43c;",
+        "symbol": "м"
+    },
+    {
+        "code": "&#x3ba;",
+        "symbol": "κ"
+    },
+    {
+        "code": "&#x175;",
+        "symbol": "ŵ"
+    },
+    {
+        "code": "&#x3c9;",
+        "symbol": "ω"
+    },
+    {
+        "code": "&#x4efd;",
+        "symbol": "份"
+    },
+    {
+        "code": "&#x80a1;",
+        "symbol": "股"
+    },
+    {
+        "code": "&#x6280;",
+        "symbol": "技"
+    },
+    {
+        "code": "&#x3bf;",
+        "symbol": "ο"
+    },
+    {
+        "code": "&#x79d1;",
+        "symbol": "科"
+    },
+    {
+        "code": "&#x3bb;",
+        "symbol": "λ"
+    },
+    {
+        "code": "&#x5149;",
+        "symbol": "光"
+    },
+    {
+        "code": "&#x967d;",
+        "symbol": "陽"
+    },
+    {
+        "code": "&#x6607;",
+        "symbol": "昇"
+    },
+    {
+        "code": "&#xe48;",
+        "symbol": " ่"
+    },
+    {
+        "code": "&#x3b1;",
+        "symbol": "α"
+    },
+    {
+        "code": "&#x3b4;",
+        "symbol": "δ"
+    },
+    {
+        "code": "&#xe40;",
+        "symbol": "เ"
+    },
+    {
+        "code": "&#x3ac;",
+        "symbol": "ά"
+    },
+    {
+        "code": "&#xe2b;",
+        "symbol": "ห"
+    },
+    {
+        "code": "&#x39c;",
+        "symbol": "Μ"
+    },
+    {
+        "code": "&#x3b7;",
+        "symbol": "η"
+    },
+    {
+        "code": "&#xe25;",
+        "symbol": "ล"
+    },
+    {
+        "code": "&#x3c2;",
+        "symbol": "ς"
+    },
+    {
+        "code": "&#xe30;",
+        "symbol": "ะ"
+    },
+    {
+        "code": "&#x683c;",
+        "symbol": "格"
+    },
+    {
+        "code": "&#xe41;",
+        "symbol": "แ"
+    },
+    {
+        "code": "&#x7c07;",
+        "symbol": "簇"
+    },
+    {
+        "code": "&#x3c7;",
+        "symbol": "χ"
+    },
+    {
+        "code": "&#xcf;",
+        "symbol": "Ï"
+    },
+    {
+        "code": "&#x6a9;",
+        "symbol": "ک"
+    },
+    {
+        "code": "&#x641;",
+        "symbol": "ف"
+    },
+    {
+        "code": "&#xe33;",
+        "symbol": " ำ"
+    },
+    {
+        "code": "&#xe21;",
+        "symbol": "ม"
+    },
+    {
+        "code": "&#x307f;",
+        "symbol": "み"
+    },
+    {
+        "code": "&#x53cb;",
+        "symbol": "友"
+    },
+    {
+        "code": "&#x301c;",
+        "symbol": "〜"
+    },
+    {
+        "code": "&#xe08;",
+        "symbol": "จ"
+    },
+    {
+        "code": "&#x306a;",
+        "symbol": "な"
+    },
+    {
+        "code": "&#xe07;",
+        "symbol": "ง"
+    },
+    {
+        "code": "&#x3093;",
+        "symbol": "ん"
+    },
+    {
+        "code": "&#xe01;",
+        "symbol": "ก"
+    },
+    {
+        "code": "&#x638;",
+        "symbol": "ظ"
+    },
+    {
+        "code": "&#x5d2;",
+        "symbol": "ג"
+    },
+    {
+        "code": "&#xe4c;",
+        "symbol": " ์"
+    },
+    {
+        "code": "&#xfffd;",
+        "symbol": "�"
+    },
+    {
+        "code": "&#x116;",
+        "symbol": "Ė"
+    },
+    {
+        "code": "&#x39a;",
+        "symbol": "Κ"
+    },
+    {
+        "code": "&#x3a3;",
+        "symbol": "Σ"
+    },
+    {
+        "code": "&#xe2d;",
+        "symbol": "อ"
+    },
+    {
+        "code": "&#xe23;",
+        "symbol": "ร"
+    },
+    {
+        "code": "&#xe16;",
+        "symbol": "ถ"
+    },
+    {
+        "code": "&#xe13;",
+        "symbol": "ณ"
+    },
+    {
+        "code": "&#xe32;",
+        "symbol": "า"
+    },
+    {
+        "code": "&#xe2a;",
+        "symbol": "ส"
+    },
+    {
+        "code": "&#x163;",
+        "symbol": "ţ"
+    },
+    {
+        "code": "&#x6e38;",
+        "symbol": "游"
+    },
+    {
+        "code": "&#xe19;",
+        "symbol": "น"
+    },
+    {
+        "code": "&#x9053;",
+        "symbol": "道"
+    },
+    {
+        "code": "&#xe04;",
+        "symbol": "ค"
+    },
+    {
+        "code": "&#x158;",
+        "symbol": "Ř"
+    },
+    {
+        "code": "&#x30eb;",
+        "symbol": "ル"
+    },
+    {
+        "code": "&#x52a8;",
+        "symbol": "动"
+    },
+    {
+        "code": "&#x30bf;",
+        "symbol": "タ"
+    },
+    {
+        "code": "&#x82f1;",
+        "symbol": "英"
+    },
+    {
+        "code": "&#x901a;",
+        "symbol": "通"
+    },
+    {
+        "code": "&#x7687;",
+        "symbol": "皇"
+    },
+    {
+        "code": "&#x4e92;",
+        "symbol": "互"
+    },
+    {
+        "code": "&#x25ba;",
+        "symbol": "►"
+    },
+    {
+        "code": "&#x25c4;",
+        "symbol": "◄"
+    },
+    {
+        "code": "&#x421;",
+        "symbol": "С"
+    },
+    {
+        "code": "&#x41c;",
+        "symbol": "М"
+    },
+    {
+        "code": "&#x422;",
+        "symbol": "Т"
+    },
+    {
+        "code": "&#x410;",
+        "symbol": "А"
+    },
+    {
+        "code": "&#x420;",
+        "symbol": "Р"
+    },
+    {
+        "code": "&#x41e;",
+        "symbol": "О"
+    },
+    {
+        "code": "&#x415;",
+        "symbol": "Е"
+    },
+    {
+        "code": "&#x41a;",
+        "symbol": "К"
+    },
+    {
+        "code": "&#x425;",
+        "symbol": "Х"
+    },
+    {
+        "code": "&#x395;",
+        "symbol": "Ε"
+    },
+    {
+        "code": "&#x3a1;",
+        "symbol": "Ρ"
+    },
+    {
+        "code": "&#x399;",
+        "symbol": "Ι"
+    },
+    {
+        "code": "&#x3a4;",
+        "symbol": "Τ"
+    },
+    {
+        "code": "&#x3a5;",
+        "symbol": "Υ"
+    },
+    {
+        "code": "&#x391;",
+        "symbol": "Α"
+    },
+    {
+        "code": "&#x39f;",
+        "symbol": "Ο"
+    },
+    {
+        "code": "&#x445;",
+        "symbol": "х"
+    },
+    {
+        "code": "&#xad;",
+        "symbol": "­"
+    },
+    {
+        "code": "&#xa0;",
+        "symbol": ""
+    },
+    {
+        "code": "&#x3000;",
+        "symbol": ""
+    },
+    {
+        "code": "&#x200b;",
+        "symbol": ""
+    },
+    {
+        "code": "&#x650;",
+        "symbol": "ِ"
+    }
+]
