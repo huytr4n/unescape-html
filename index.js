@@ -19,13 +19,13 @@ if (_.size(maps) > 0)
  */
 module.exports = function (str) {
   if (!str || typeof str !== "string")
-    return str
+    return _.unescape(str);
 
   if (str.indexOf('&#') !== -1) {
     _.each(maps, function (mapCase) {
-      str = str.replace(new RegExp(mapCase.code, "g"), mapCase.symbol)
-    })
+      str = str.replace(new RegExp(mapCase.code, "g"), mapCase.symbol);
+    });
   }
 
-  return str
+  return _.unescape(str);
 }

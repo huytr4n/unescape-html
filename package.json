@@ -1,9 +1,23 @@
 {
-  "name": "linkedin-scraping",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "async": "0.2.9",
-    "underscore": "1.5.1",
-  }
+  "name": "html-transform",
+  "version": "0.0.4",
+  "description": "provide ulimated solution for unescape HTML characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tranquochuy/unescape-html.git"
+  },
+  "keywords": [
+    "unescape",
+    "html"
+  ],
+  "author": "huytran.asnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranquochuy/unescape-html/issues"
+  },
+  "homepage": "https://github.com/tranquochuy/unescape-html"
 }
