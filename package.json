@@ -1,0 +1,27 @@
+{
+  "name": "html-transform",
+  "version": "1.0.0",
+  "description": "html-transform =================",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranquochuy/unescape-html.git"
+  },
+  "keywords": [
+    "html",
+    "escape"
+  ],
+  "author": "huytran.asnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranquochuy/unescape-html/issues"
+  },
+  "homepage": "https://github.com/tranquochuy/unescape-html#readme"
+}
